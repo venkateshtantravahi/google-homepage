@@ -1,0 +1,2 @@
+The project is mainly about dealing with the things that i have learned so far using this website called THe ODIN PROJECT.
+to understand the deep concept of using the tags styles that I have learned so far so that i can be good practically and get relevent to the commands that I use further 
